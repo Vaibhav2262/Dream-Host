@@ -1,0 +1,88 @@
+h1{
+    color: rgb(149, 255, 0);
+    background-color: rgb(182, 249, 212);
+    text-align: center;
+    text-decoration:dashed;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBZ5KoZEWWfnsWBnTUhbuHRlE2yu8g0hvI9oFUA2ZweJlr8_QfMecO0eUlkqiC_THxMxY&usqp=CAU);
+    
+}
+.ab{
+    color: rgb(248, 8, 172);
+    
+}
+.cd{
+    color: #ff0404;
+    background-color:  #aec9ba;
+   
+    
+    text-decoration:dashed;
+   // background-image: url(https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/2020-Chevrolet-Corvette-Stingray/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=960);
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+.xy{
+    color: rgb(8, 243, 251);
+    background-color: rgb(239, 232, 234);
+    display: inline-block;
+    border-style: solid ;
+    
+    border-color: rgb(230, 159, 201);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd91U-VnuogckiZxTjm9UfrFKVF1pXgSibjSKr-e9pBA&s);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+
+}
+body{
+    
+    background-image: url(https://cdn.wallpapersafari.com/68/18/elTdE5.jpg);
+    
+    
+   
+    background-repeat: no-repeat;
+    
+
+}
+h2{
+    color: rgb(176, 251, 0);
+    background-color: rgba(231, 252, 186, 0.807);
+    text-align: center;
+    text-shadow: 15px 20px 2px rgb(96, 220, 127) ;
+    border: 15px;
+    text-decoration:  solid ;
+    border: 2px solid rgba(168, 47, 255, 0.69);
+   height: 75%;
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzYQ7HSdHIcJMoATh7sfXCHwl-Uf6CjHIpl0elOXzEjg&s);
+   text-overflow: initial;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+   
+   
+
+}
+.x{
+    color: rgb(8, 243, 251);
+    background-color: rgb(239, 232, 234);
+    display: inline-block;
+    border-style: solid ;
+    
+    border-color: rgb(230, 159, 201);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd91U-VnuogckiZxTjm9UfrFKVF1pXgSibjSKr-e9pBA&s);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+video{
+   float: left;
+}
+.z{
+    float: right;
+}
+.m{
+    float: center;
+   
+}
+footer{
+    color: #6af43c;
+    background-color: white;
+    background-image: url(https://img.freepik.com/free-photo/sports-car-races-through-dark-blurred-motion-generative-ai_188544-12490.jpg);
+}

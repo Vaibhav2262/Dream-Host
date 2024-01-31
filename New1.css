@@ -1,0 +1,25 @@
+h1{
+    color: red;
+    background-image: url(https://img.freepik.com/free-photo/sports-car-races-through-dark-blurred-motion-generative-ai_188544-12490.jpg);
+    height: 550%;
+    width: 100%;
+   text-align: center;
+
+}
+h4{
+    color: rgb(245, 50, 164);
+}
+table{
+    width: 100%;
+    height: 10%;
+    color: rgb(246, 104, 3);
+    
+}
+form{
+    background-image: url(https://img.freepik.com/free-photo/view-three-dimensional-car-model_23-2151138987.jpg?t=st=1706513858~exp=1706517458~hmac=6ba37f4832ab71a15ff418c871fa7d6ac20cf5e18578e196ddaae0e95f2ab9d4&w=996);
+    height: 100%;
+    width: 75%;
+}
+body{
+    background-color: rgb(235, 239, 195);
+}
